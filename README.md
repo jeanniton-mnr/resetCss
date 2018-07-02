@@ -1,7 +1,7 @@
-# resetCss
+# resetCss   
 CSS stylesheet to reset element style to default based on webkit css user-agent value.
 
-#Basic usage
+# Basic usage  
 To reset the style of an element, link the stylesheet (reset-this.css) in your page then add the class "reset-this" to the element you want to reset.
 You should notice that children of this element will also be reset.
 P.S. : Pay attention to css specifity as well.
