@@ -6,13 +6,10 @@ To reset the style of an element, link the stylesheet (reset-this.css) in your p
 You should notice that children of this element will also be reset.
 P.S. : Pay attention to css specifity as well.
 
-#Userfull link
-http://stackoverflow.com/questions/15901030/reset-remove-css-styles-for-element-only
-<br>
-http://trac.webkit.org/browser/trunk/Source/WebCore/css/html.css
-<br>
-http://stackoverflow.com/questions/6867254/browsers-default-css-for-html-elements/6867287#6867287
-<br>
-https://css-tricks.com/specifics-on-css-specificity/
-<br>
-http://trac.webkit.org/browser/trunk/Source/WebCore/css/html.css
+#Userfull link:   
+
+1. http://stackoverflow.com/questions/15901030/reset-remove-css-styles-for-element-only  
+2. http://trac.webkit.org/browser/trunk/Source/WebCore/css/html.css   
+3. http://stackoverflow.com/questions/6867254/browsers-default-css-for-html-elements/6867287#6867287   
+4. https://css-tricks.com/specifics-on-css-specificity/   
+5. http://trac.webkit.org/browser/trunk/Source/WebCore/css/html.css
