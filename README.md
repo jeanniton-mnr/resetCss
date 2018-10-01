@@ -13,3 +13,9 @@ P.S. : Pay attention to css specifity as well.
 3. http://stackoverflow.com/questions/6867254/browsers-default-css-for-html-elements/6867287#6867287   
 4. https://css-tricks.com/specifics-on-css-specificity/   
 5. http://trac.webkit.org/browser/trunk/Source/WebCore/css/html.css
+
+
+
+
+### Ads
+Deploy your own Web Site or Web Application for as low as $5/month. Sign up using my link and receive $10 in credit: https://m.do.co/c/310cb233aac0
