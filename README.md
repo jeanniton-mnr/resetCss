@@ -17,5 +17,5 @@ P.S. : Pay attention to css specifity as well.
 
 
 
-### Ads
+# Ad
 Deploy your own Web Site or Web Application for as low as $5/month. Sign up using my link and receive $10 in credit: https://m.do.co/c/310cb233aac0
